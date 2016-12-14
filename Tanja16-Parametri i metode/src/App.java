@@ -35,9 +35,9 @@ class Frog {
         setColor(color);
     }
     
-    public void makesound()
+    public String makesound()
     {
-    	System.out.println("ima zvuk");
+    	return "ima zvuk";
     }
 }
  
@@ -60,6 +60,7 @@ public class App {
         frog2.setColor("green");
         System.out.println(frog2.getName());
         frog2.makesound();
+        System.out.println(frog2.getName() + " "+ frog2.makesound());
     }
  
 }
