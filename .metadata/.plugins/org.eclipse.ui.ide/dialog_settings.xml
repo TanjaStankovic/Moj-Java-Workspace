@@ -5,13 +5,26 @@
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer27  - Upcasting, Downcasting"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer26 - Enkapsulacija i API dokumentacija"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer25 - Polimorfizam"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer24 - Public, Private, Protected"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer23 - Interfejsi"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer22 - Paketi"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer21 - Nasljedjivanje"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer20 - toString metoda"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer19 - StringBuilder i String Formatiranje"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer18 - STATIC i FINAL kljucne rijeci"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer17 - Konstruktori"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer16 - Parametri metoda"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer15 - Getteri i vracanje parametara"/>
+			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer14 - Metode"/>
 			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer12 - Multidimenzionalni nizovi"/>
 			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer11 - Nizovi Stringova"/>
 			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer10 - Nizovi"/>
 			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer09 - SWITCH selekcije"/>
 			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer08 - DO-WHILE ciklusi"/>
 			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer06 - IF selekcije"/>
-			<item value="C:\Users\12\Desktop\Git\OO-Programiranje-u-Javi-ADU-obuka\Primjer05 - FOR ciklusi"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
@@ -20,6 +33,7 @@
 	<section name="NewWizardAction">
 		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
 		</list>
 	</section>
 </section>
